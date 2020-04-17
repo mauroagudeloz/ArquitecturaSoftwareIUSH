@@ -1,0 +1,11 @@
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareFacade\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareFacade.exe
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareFacade\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareFacade.deps.json
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareFacade\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareFacade.runtimeconfig.json
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareFacade\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareFacade.runtimeconfig.dev.json
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareFacade\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareFacade.dll
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareFacade\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareFacade.pdb
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareFacade\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftwareFacade.csprojAssemblyReference.cache
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareFacade\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftwareFacade.AssemblyInfoInputs.cache
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareFacade\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftwareFacade.AssemblyInfo.cs
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareFacade\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftwareFacade.dll
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareFacade\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftwareFacade.pdb
