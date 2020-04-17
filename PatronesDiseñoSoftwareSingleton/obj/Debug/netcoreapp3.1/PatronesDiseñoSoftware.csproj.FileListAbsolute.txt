@@ -1,0 +1,11 @@
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftware.exe
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftware.deps.json
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftware.runtimeconfig.json
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftware.runtimeconfig.dev.json
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftware.dll
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftware.pdb
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftware.csprojAssemblyReference.cache
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftware.AssemblyInfoInputs.cache
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftware.AssemblyInfo.cs
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftware.dll
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftware.pdb

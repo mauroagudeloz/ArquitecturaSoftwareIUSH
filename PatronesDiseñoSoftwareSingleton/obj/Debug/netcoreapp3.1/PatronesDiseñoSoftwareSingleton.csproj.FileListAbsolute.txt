@@ -1,0 +1,11 @@
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareSingleton.exe
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareSingleton.deps.json
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareSingleton.runtimeconfig.json
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareSingleton.runtimeconfig.dev.json
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareSingleton.dll
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareSingleton.pdb
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftwareSingleton.csprojAssemblyReference.cache
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftwareSingleton.AssemblyInfoInputs.cache
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftwareSingleton.AssemblyInfo.cs
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftwareSingleton.dll
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftware\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftwareSingleton.pdb
