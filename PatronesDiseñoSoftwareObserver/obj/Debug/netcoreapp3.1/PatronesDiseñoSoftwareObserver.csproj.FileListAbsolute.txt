@@ -1,0 +1,11 @@
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareObserver\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareObserver.exe
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareObserver\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftwareObserver.csprojAssemblyReference.cache
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareObserver\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftwareObserver.AssemblyInfoInputs.cache
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareObserver\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftwareObserver.AssemblyInfo.cs
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareObserver\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareObserver.deps.json
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareObserver\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareObserver.runtimeconfig.json
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareObserver\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareObserver.runtimeconfig.dev.json
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareObserver\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareObserver.dll
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareObserver\bin\Debug\netcoreapp3.1\PatronesDiseñoSoftwareObserver.pdb
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareObserver\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftwareObserver.dll
+C:\Users\Mauro\source\repos\PatronesDiseñoSoftwareObserver\obj\Debug\netcoreapp3.1\PatronesDiseñoSoftwareObserver.pdb
